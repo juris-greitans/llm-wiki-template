@@ -20,4 +20,4 @@ A few sentences on what this source says, in your own words.
 
 ## Pages updated on ingest
 
-- [[entity-or-concept-page]] — what was added/changed
+- link-to-entity-or-concept-page — what was added/changed

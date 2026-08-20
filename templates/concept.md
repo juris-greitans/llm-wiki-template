@@ -25,4 +25,4 @@ Unresolved tensions, competing definitions, or gaps.
 
 ## Related
 
-- [[other-concept-or-entity]] — why it's related
+- link-to-other-concept-or-entity — why it's related

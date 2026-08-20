@@ -27,4 +27,4 @@ over, flag it.
 
 ## Related
 
-- [[other-entity-or-concept]] — why it's related
+- link-to-other-entity-or-concept — why it's related
